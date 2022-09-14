@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700725263407",
+    "project_id": "timetable-ba122",
+    "storage_bucket": "timetable-ba122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700725263407:android:2683ebcea15a61fc029ada",
+        "android_client_info": {
+          "package_name": "com.viwreck.tt_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700725263407-er26p3r2g1c1jrtcnar5t6qi2npfbd2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBeD6TKBA8fveMOTpHjVDzLNh7pFHNIdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700725263407-er26p3r2g1c1jrtcnar5t6qi2npfbd2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
